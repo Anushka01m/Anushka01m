@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1>Hi, I am Anushka Maitra! <br/><a href="https://github.com/Anushka01m">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Currently VIT AP Student studying B.Tech in ECE with specialization in Embedded Systems</a></h1>
 
-<!--
-**Anushka01m/Anushka01m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Under Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Portfolio </b>
+  - [name](link)
+- <b> To do list </b>
+  - [name](link)
+- <b> Markdown Notes Organiser </b>
+  - [name](link)
+- <b>Simple Calculator</b>
+  - [name](link)
+- <b>Expense Tracker </b>
+  - [name](link)
+- <b> GitHub Profile Analyser </b>
+  - [name](link)
+- <b> Movie Recommendation System </b>
+  - [name](link)
+- <b>EEG SIGNAL SIMULATOR </b>
+  - [name](link)
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<h2>📺 Popular Coding Programs expected in College</h2>
+-
+
+
+<h2> CERTIFICATIONS</h2>
+-
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Anushka Maitra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/anushka-maitra
+- linkedin
+<h2>About</h2>
+- 🔭 I’m currently working on ...CODING , WEB DEVELOPMENT AND APP DEVELOPMENT
+- 🌱 I’m currently learning ...C/C#
+- 👯 I’m looking to collaborate on ...PROJECTS AND APPS
+- 💬 Ask me about ...JAVA,PYTHON,HTML...
+- 📫 How to reach me: ...www.linkedin.com/in/anushka-maitra
+- 😄 Pronouns: ...CURRENTLY UNDER DEVELOPMENT
+- ⚡ Fun fact: ...I LIKE LEARNING NEW THINGS
 -->
