@@ -22,7 +22,43 @@
 
 
 <h2>📺 Popular Coding Programs expected in College</h2>
--
+-https://github.com/Anushka01m/CODING/blob/main/ArrayListOperations.java
+-https://github.com/Anushka01m/CODING/blob/main/AutomorphicPrimeChecker.java
+-https://github.com/Anushka01m/CODING/blob/main/BMICalculator.java
+-https://github.com/Anushka01m/CODING/blob/main/BankSystem.java
+-https://github.com/Anushka01m/CODING/blob/main/BankTransaction.java
+-https://github.com/Anushka01m/CODING/blob/main/BasicMathOperation.java
+-https://github.com/Anushka01m/CODING/blob/main/CGPA.java
+-https://github.com/Anushka01m/CODING/blob/main/Casebasedpeoblem.java
+-https://github.com/Anushka01m/CODING/blob/main/CatchExercise.java
+-https://github.com/Anushka01m/CODING/blob/main/Customerdetails.java
+-https://github.com/Anushka01m/CODING/blob/main/Employee.java
+-https://github.com/Anushka01m/CODING/blob/main/EmployeeII.java
+-https://github.com/Anushka01m/CODING/blob/main/ExceptionHandling.java
+-https://github.com/Anushka01m/CODING/blob/main/Grocery.java
+-https://github.com/Anushka01m/CODING/blob/main/House.java
+-https://github.com/Anushka01m/CODING/blob/main/LaptopInfo.java
+-https://github.com/Anushka01m/CODING/blob/main/LeapYearChecker.java
+-https://github.com/Anushka01m/CODING/blob/main/MYPIZZASHOP.java
+-https://github.com/Anushka01m/CODING/blob/main/MammalMessage.java
+-https://github.com/Anushka01m/CODING/blob/main/MatrixRowRemoval.java
+-https://github.com/Anushka01m/CODING/blob/main/Message.java
+-https://github.com/Anushka01m/CODING/blob/main/MinMaxViewer.java
+-https://github.com/Anushka01m/CODING/blob/main/PostfixEvaluator.java
+-https://github.com/Anushka01m/CODING/blob/main/PrimeChecker.java
+-https://github.com/Anushka01m/CODING/blob/main/PrintDoc.java
+-https://github.com/Anushka01m/CODING/blob/main/Realtimestockpricemonitoringsystem.java
+-https://github.com/Anushka01m/CODING/blob/main/RemoveAdjacentDuplicates.java
+-https://github.com/Anushka01m/CODING/blob/main/ReverseLinkedList.java
+-https://github.com/Anushka01m/CODING/blob/main/ReverseStackUsingQueue.java
+-https://github.com/Anushka01m/CODING/blob/main/SimpleCalculator.java
+-https://github.com/Anushka01m/CODING/blob/main/Sorting.java
+-https://github.com/Anushka01m/CODING/blob/main/StringComparison.java
+-https://github.com/Anushka01m/CODING/blob/main/StudentGrade.java
+-https://github.com/Anushka01m/CODING/blob/main/Traininfo.java
+-https://github.com/Anushka01m/CODING/blob/main/VehicleCost.java
+-https://github.com/Anushka01m/CODING/blob/main/VotingValidation.java
+
 
 
 <h2> CERTIFICATIONS</h2>
