@@ -62,7 +62,10 @@
 
 
 <h2> CERTIFICATIONS</h2>
--
+-Advanced Drone Technology
+-C (NPTEL)
+-AI and AI TOOLS
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Anushka Maitra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
