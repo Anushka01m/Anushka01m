@@ -3,19 +3,19 @@
 <h2>👨‍💻 Under Development Projects:</h2>
 
 - <b>Portfolio </b>
-  - [name](link)
+  - [name](https://github.com/Anushka01m/PORTFOLIO-WEBSITE)
 - <b> To do list </b>
-  - [name](link)
+  - [name](https://github.com/Anushka01m/TO-DO-LIST)
 - <b> Markdown Notes Organiser </b>
-  - [name](link)
-- <b>Simple Calculator</b>
-  - [name](link)
+  - [name](https://github.com/Anushka01m/MARKDOWN-NOTES-ORGANIZER)
+- <b>Advanced Calculator</b>
+  - [name](https://github.com/Anushka01m/Advanced-Calculator)
 - <b>Expense Tracker </b>
-  - [name](link)
+  - [name]((https://github.com/Anushka01m/expense-tracker))
 - <b> GitHub Profile Analyser </b>
-  - [name](link)
+  - [name]((https://github.com/Anushka01m/profile_analyser_GITHUB))
 - <b> Movie Recommendation System </b>
-  - [name](link)
+  - [name](https://github.com/Anushka01m/movie-recommendation)
 - <b>EEG SIGNAL SIMULATOR </b>
   - [name](link)
  
